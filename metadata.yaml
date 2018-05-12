@@ -1,0 +1,45 @@
+_repo: Kolme-muskettisoturiaHistoriallinen-romaani_37885
+_version: 0.1.0
+alternative_title: Trois mousquetaires. Finnish
+contributor:
+  translator:
+    agent_name: Hannikainen, P. J.
+    aliases:
+    - Hannikainen, Pietari Juhani
+    - Hannikainen, Pekka Juhani
+    birthdate: 1854
+    deathdate: 1924
+    gutenberg_agent_id: '39114'
+    url: http://www.gutenberg.org/2009/agents/39114
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dumas, Alexandre
+    aliases:
+    - Dumas, Alexandre, pere
+    - Dumas, Alexander
+    - Dumas père, Alexandre
+    birthdate: 1802
+    deathdate: 1870
+    gutenberg_agent_id: '492'
+    url: http://www.gutenberg.org/2009/agents/492
+    wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
+description: ''
+gutenberg_issued: '2011-10-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37885'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Swordsmen -- Fiction'
+- !lcsh 'Adventure and adventurers -- Fiction'
+- !lcsh 'France -- History -- Louis XIII, 1610-1643 -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcc 'PQ'
+title: 'Kolme muskettisoturia: Historiallinen romaani'
+url: http://www.gutenberg.org/ebooks/37885
